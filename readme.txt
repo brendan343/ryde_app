@@ -29,3 +29,5 @@ npm install stripe --save
 npm install @stripe/stripe-react-native
 17) plotting of polylines
 npm install react-native-maps-directions
+18) expo link with Google OAuth  modal
+npm install expo-linking
