@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage
-  description: |
+  description:
     Backstage is an open-source developer portal that puts the developer experience first.
   annotations:
     backstage.io/techdocs-ref: dir:.
