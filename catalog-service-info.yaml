@@ -6,6 +6,7 @@ metadata:
     Backstage is an open-source developer portal that puts the developer experience first.
   annotations:
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: dice-roller
 spec:
   type: service
   owner: CNCF
