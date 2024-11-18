@@ -2,8 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: rds-testing
-  description: |
-    THISIS TO TEST IF COMPONENT PERSISTS
   links:
     - title: Website
       url: http://backstage.io
