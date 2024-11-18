@@ -1,23 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: RDS TESTING
+  name: rds-testing
   description:
     THISIS TO TEST IF COMPONENT PERSISTS
   links:
     - title: Website
       url: http://backstage.io
-    - title: Documentation
-      url: https://backstage.io/docs
-    - title: Storybook
-      url: https://backstage.io/storybook
-    - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
-  annotations:
-    backstage.io/techdocs-ref: dir:.
-    # github.com/project-slug: backstage/backstage
-    # lighthouse.com/website-url: https://backstage.io
 spec:
+  type: service
   owner: team-a
   lifecycle: experimental
 
